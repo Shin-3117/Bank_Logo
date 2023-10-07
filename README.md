@@ -6,7 +6,7 @@
 
 - 시티은행
 
-<img src="./img_bank_logo/Citi.png" width="112" height="112"/>
+<img src="./img_bank_logo/citi.png" width="112" height="112"/>
 
 - 대구은행
 
@@ -60,7 +60,7 @@
 
 - 토스뱅크
 
-<img src="./img_bank_logo/toss.png" width="112" height="112"/>
+<img src="./img_bank_logo/Toss.png" width="112" height="112"/>
 
 - 우리은행
 
