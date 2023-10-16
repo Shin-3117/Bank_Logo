@@ -65,3 +65,7 @@
 - 우리은행
 
 ![우리](./img_bank_logo/URi.svg)
+
+- 한국수출입은행
+
+<img src="./img_bank_logo/KE.png" width="112" height="112"/>
